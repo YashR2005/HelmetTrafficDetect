@@ -1,7 +1,7 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: linux-64
-_libgcc_mutex=0.1=main
+_libgcc_mutex=0.1==main
 _tflow_select=2.1.0=gpu
 absl-py=0.7.1=py36_0
 astor=0.7.1=py36_0
